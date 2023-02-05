@@ -1,0 +1,12 @@
+C:\Users\Ximena VMF\source\repos\Pacman_proyecto\obj\Debug\Pacman_proyecto.csproj.AssemblyReference.cache
+C:\Users\Ximena VMF\source\repos\Pacman_proyecto\obj\Debug\Pacman_proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ximena VMF\source\repos\Pacman_proyecto\obj\Debug\pacman_proyecto.Form1.resources
+C:\Users\Ximena VMF\source\repos\Pacman_proyecto\obj\Debug\Pacman_proyecto.Properties.Resources.resources
+C:\Users\Ximena VMF\source\repos\Pacman_proyecto\obj\Debug\Pacman_proyecto.csproj.GenerateResource.cache
+C:\Users\Ximena VMF\source\repos\Pacman_proyecto\obj\Debug\Pacman_proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Ximena VMF\source\repos\Pacman_proyecto\bin\Debug\Pacman_proyecto.exe.config
+C:\Users\Ximena VMF\source\repos\Pacman_proyecto\bin\Debug\Pacman_proyecto.exe
+C:\Users\Ximena VMF\source\repos\Pacman_proyecto\bin\Debug\Pacman_proyecto.pdb
+C:\Users\Ximena VMF\source\repos\Pacman_proyecto\obj\Debug\Pacman_proyecto.exe
+C:\Users\Ximena VMF\source\repos\Pacman_proyecto\obj\Debug\Pacman_proyecto.pdb
+C:\Users\Ximena VMF\source\repos\Pacman_proyecto\obj\Debug\Pacman_proyecto.Recursos.Resource1.resources
