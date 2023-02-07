@@ -96,5 +96,20 @@
   <ItemGroup>
     <None Include="Resources\pacman-png-5.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Recursos\PacmanD.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Recursos\PacmanL.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Recursos\PacmanR.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Recursos\PacmanU.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Recursos\PacmanRetroR.gif" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
